@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/mohit_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohit_22" height="30" width="40" /></a>
 <a href="https://twitter.com/mohit_22_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit_22_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohit namdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit namdev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-namdev-5a875221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit namdev" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit_namdev03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_namdev03" height="30" width="40" /></a>
 </p>
 
