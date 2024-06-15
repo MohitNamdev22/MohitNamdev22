@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitnamdev22" alt="mohitnamdev22" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, and Svelte JS**
+- 🌱 I’m currently learning **React JS, Svelte JS and Next JS**
 
 - 👨‍💻 My Portfolio Website [https://mohitnamdev22.github.io/mohitportfolio/](https://mohitnamdev22.github.io/mohitportfolio/)
 
