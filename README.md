@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Svelte JS and Next JS**
 
-- 👨‍💻 My Portfolio Website [https://mohitnamdev22.github.io/mohitportfolio/](https://mohitnamdev22.github.io/mohitportfolio/)
+- 👨‍💻 My Portfolio Website [[https://mohitnamdev22.github.io/mohitportfolio/](https://mohitnamdev22.github.io/mohitportfolio/)](https://mohit-portfolio-app.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development**
 
