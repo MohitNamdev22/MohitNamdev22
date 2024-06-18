@@ -20,11 +20,11 @@
 <a href="https://www.linkedin.com/in/mohit-namdev-5a875221b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit namdev" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit_namdev03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_namdev03" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://svelte.dev/" target="_blank"> <img src="https://svelte.dev/favicon.png" alt="svelte" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
